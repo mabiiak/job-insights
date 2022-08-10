@@ -21,7 +21,7 @@ def filter_by_job_type(jobs, job_type):
 
 def get_unique_industries(path):
     jobs_data = read(path)
-    industries_names = []
+    industries_names = set()
     for industry in jobs_data:
         if industry["industry"] != "":
             industries_names.add(industry["industry"])
