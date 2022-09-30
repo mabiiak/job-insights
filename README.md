@@ -6,22 +6,21 @@
 
   ## Habilidades a serem trabalhadas:
 
-    -Utilizar o terminal interativo do Python.
+ - Utilizar o terminal interativo do Python.
     
-    -Utilizar estruturas condicionais e de repetição.
+ - Utilizar estruturas condicionais e de repetição.
     
-    -Utilizar funções built-in do Python.
+- Utilizar funções built-in do Python.
     
-    -Utilizar tratamento de exceções.
+- Utilizar tratamento de exceções.
     
-    -Realizar a manipulação de arquivos.
+- Realizar a manipulação de arquivos.
     
-    -Escrever funções.
+- Escrever funções.
     
-    -Escrever testes com Pytest.
+- Escrever testes com Pytest.
     
-    -Escrever seus próprios módulos e importá-los em outros 
-    códigos.
+- Escrever seus próprios módulos e importá-los em outros códigos.
 
 
 # Desenvolvimento
